@@ -1,16 +1,37 @@
-# React + Vite
+# Flora Arzanipour Acupuncture
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Website for Dr. Flora Arzanipour, L.Ac., DAOM - a licensed acupuncturist and Doctor of Acupuncture and Oriental Medicine based in Chicago, IL.
 
-Currently, two official plugins are available:
+**Live Site:** [https://kashfarhadi.github.io/community-acupuncture/](https://kashfarhadi.github.io/community-acupuncture/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About the Practice
 
-## React Compiler
+Dr. Flora Arzanipour brings over 15 years of experience in Traditional Chinese Medicine, offering holistic and personalized care to help patients achieve optimal health and wellness.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### Services Offered
 
-## Expanding the ESLint configuration
+- **Acupuncture** - Traditional Chinese acupuncture for natural healing and balance
+- **Cupping Therapy** - Ancient therapy to improve circulation and relieve muscle tension
+- **Herbal Medicine** - Customized herbal formulas tailored to individual needs
+- **Moxibustion** - Warming therapy to enhance circulation and strengthen immunity
+- **Gua Sha** - Traditional scraping technique for deep healing
+- **SAAT Therapy** - Specialized auricular acupuncture for allergies and sensitivities
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Conditions Treated
+
+Chronic pain, stress and anxiety, digestive issues, insomnia, allergies, fertility support, headaches, women's health, and more.
+
+## Development
+
+This site is built with React and Vite.
+
+```bash
+# Install dependencies
+npm install
+
+# Run development server
+npm run dev
+
+# Build for production
+npm run build
+```
