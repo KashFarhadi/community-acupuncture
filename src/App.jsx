@@ -18,6 +18,7 @@ import {
   Quote
 } from 'lucide-react'
 import './App.css'
+import floraHeadshot from '/images/flora-headshot.png'
 
 // Import service pages
 import AcupuncturePage from './pages/AcupuncturePage'
@@ -226,7 +227,7 @@ function HomePage() {
             <div className="about-image">
               <div className="image-frame circular">
                 <img
-                  src="/images/flora-headshot.png"
+                  src={floraHeadshot}
                   alt="Dr. Flora Arzanipour - Licensed Acupuncturist"
                   className="headshot-photo circular"
                 />
