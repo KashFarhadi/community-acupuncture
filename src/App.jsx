@@ -226,7 +226,7 @@ function HomePage() {
             <div className="about-image">
               <div className="image-frame circular">
                 <img
-                  src="/images/flora-headshot.jpg"
+                  src="/images/flora-headshot.png"
                   alt="Dr. Flora Arzanipour - Licensed Acupuncturist"
                   className="headshot-photo circular"
                 />
